@@ -1,4 +1,4 @@
-# visualizing-covid-19
+# 💉 visualizing-covid-19
 
 Load the ```readr```, ```ggplot2```, and ```dplyr``` packages
 
